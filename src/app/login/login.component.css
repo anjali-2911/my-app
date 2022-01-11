@@ -4,27 +4,51 @@ body{
     background-color: rgb(231, 231, 211);
 }
 .icon{
-   margin-top: 50px;
-   margin-left: 50px;
+   margin-top: 10px;
+   float: right;
+   margin-right: -30px;
 }
 .clgimg{
     margin-top: 90px;
     margin-left: -200px;
 }
-/* .options{
-    float: right;
-    margin: 10px 10px;
+.options{
+    /* float: right; */
+    margin: 20px 10px;
 }
 .options ul {
     display: inline-block;
     margin: 60px;
+    margin-right: -200px; 
+    margin-top: 50px;
     padding: 20px 10px 20px;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
 }
 .options li{
-    margin: 10px;
-    padding: 20px 10px 20px;
+    display: flex;
+    margin-left: 50px;
+    margin: 30px;
+    padding: 10px 35px 10px 10px;
+    border: 1px solid black ;
 }
 .lawn{
-    margin-top: 10px;
-    margin-left: 1300px;
-} */
+    margin-top: 50px;
+    float: right;
+    margin-right: -50px;
+}
+.text {
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.text h5{
+    margin: 10px;
+}
+.text h6{
+    margin-left: 60px;
+    color: crimson;
+    font-size: 18px;
+}

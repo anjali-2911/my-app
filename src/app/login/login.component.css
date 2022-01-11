@@ -4,21 +4,21 @@ body{
     background-color: rgb(231, 231, 211);
 }
 .icon{
-   margin-top: -650px;
+   margin-top: 50px;
    margin-left: 50px;
 }
 .clgimg{
-    margin-top: 190px;
+    margin-top: 90px;
     margin-left: -200px;
 }
-.options{
+/* .options{
     float: right;
-    margin: 300px 200px;
+    margin: 10px 10px;
 }
 .options ul {
     display: inline-block;
-    /* margin: 60px; */
-    /* padding: 20px 10px 20px; */
+    margin: 60px;
+    padding: 20px 10px 20px;
 }
 .options li{
     margin: 10px;
@@ -27,4 +27,4 @@ body{
 .lawn{
     margin-top: 10px;
     margin-left: 1300px;
-}
+} */

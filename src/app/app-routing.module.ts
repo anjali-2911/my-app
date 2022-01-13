@@ -5,13 +5,14 @@ import { SampleComponent } from './sample/sample.component';
 import { NewaccountComponent } from './newaccount/newaccount.component';
 import { LoginComponent } from './login/login.component';
 import { ForgetpasswordComponent } from './forgetpassword/forgetpassword.component';
-
+import { AdmissionComponent } from './admission/admission.component'
 const routes: Routes = [
   {path:'college',component:CollegeComponent},
   {path:'sample',component:SampleComponent},
   {path:'newaccount',component:NewaccountComponent},
   {path:'forgetpassword',component:ForgetpasswordComponent},
-  {path:'login',component:LoginComponent}
+  {path:'login',component:LoginComponent},
+  {path:'admission',component:AdmissionComponent}
 ];
 
 @NgModule({

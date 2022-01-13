@@ -31,19 +31,19 @@
 	margin-left: 30px;
   position: absolute;
   top: 60%;
-  left: 45%;
+  left: 43%;
   transform: translate(-50%, -50%);
 }
 .forgot{
 	margin-left: 30px;
   position: absolute;
   top:  60%;
-  left: 54%;
+  left: 52%;
   transform: translate(-50%, -50%);
 }
 input[type=text]{
   position: absolute;
-  top: 30%;
+  top: 20%;
   left: 43%;
   transform: translate(-50%, -50%);
   text-align: center;
@@ -57,7 +57,7 @@ input[type=text]{
 
 input[type=password]{
   position: absolute;
-  top: 40%;
+  top: 30%;
   left: 43%;
   transform: translate(-50%, -50%);
 	text-align: center;
@@ -71,7 +71,7 @@ input[type=password]{
 }
 .login{
   position: absolute;
-  top: 53%;
+  top: 50%;
   left: 43%;
   transform: translate(-50%, -50%);
 	font-size: 15px;
@@ -83,8 +83,8 @@ input[type=password]{
 }
 .reset{
   position: absolute;
-  top: 53%;
-  left: 48%;
+  top: 50%;
+  left: 50%;
   transform: translate(-0%, -50%);
 	font-size: 15px;
 	margin-left: 30px;
@@ -94,3 +94,11 @@ input[type=password]{
 	padding: 5px 30px;
   /* margin-top: -200px; */
 } 
+
+.copyright{
+  margin-top: -60px;
+  /* margin-right: 20px; */
+  text-align: right;
+  padding: 10px 50px 3px 10px;
+  background-color: darkgray;
+}

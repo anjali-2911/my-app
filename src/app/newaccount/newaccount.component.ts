@@ -1,6 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { UserService } from '../user.service';
-import db from './files/db.json';
 
 @Component({
   selector: 'app-newaccount',

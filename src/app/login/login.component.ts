@@ -6,8 +6,6 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./login.component.css']
 })
 export class LoginComponent implements OnInit {
-  // image = "/home/anjali/admission/clg icon_files/slider-img6.jpg";
-
 
   constructor() { }
 

@@ -10,7 +10,9 @@ import { NewaccountComponent } from './newaccount/newaccount.component';
 import { ForgetpasswordComponent } from './forgetpassword/forgetpassword.component';
 import { LoginComponent } from './login/login.component';
 import { AdmissionComponent } from './admission/admission.component';
+import { ReactiveFormsModule } from '@angular/forms';
 // import { HttpClient } from '@angular/common/http';
+// import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -21,12 +23,14 @@ import { AdmissionComponent } from './admission/admission.component';
     ForgetpasswordComponent,
     LoginComponent,
     AdmissionComponent,
-    // HttpClient
+    // HttpClient,
+    // FormsModule 
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

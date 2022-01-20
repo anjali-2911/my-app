@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { UserService } from '../user.service';
+
 
 @Component({
   selector: 'app-sample',
@@ -8,9 +8,8 @@ import { UserService } from '../user.service';
 })
 export class SampleComponent implements OnInit {
 
-  constructor(private user:UserService){}
+  constructor(){}
 
-  ngOnInit(): void{
-    this.user.getList()
+  ngOnInit(){
   }
 }

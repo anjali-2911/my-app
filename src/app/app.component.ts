@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import data from './files/data.json';
+ 
 
 
 @Component({
@@ -7,5 +9,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'my-app';
+  title = 'json-file-read-angular';
+  public countryList:{name:string, code:string}[] = data;
 }

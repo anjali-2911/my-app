@@ -1,9 +1,0 @@
-{
-  "posts": [
-    { "id": 1, "name": "anjali kadam", "class": "tybca" },
-     { "id": 2, "name": "vaibhav nehe", "class": "tybca" },
-     { "id": 3, "name": "tejas kadam", "class": "fybca" }
-  ]
-  
-}
-

@@ -8,11 +8,13 @@ export class UserService {
 
   constructor(private http:HttpClient) { }
 
-  url:string="http://localhost"
+  url="http://localhost:3000/posts"
   getList()
   {
-    console.warn("some data");
-    
-    // return this.http.post(this.url,data);
+   return this.http.get(this.url); 
   }
+  // saveUser(data){
+  //   console.warn("service",data)
+  //  return this.http.post(this.url.data)
+  // }
 }

@@ -4,21 +4,22 @@
     </head>
     <body>
             <img class="backimg" src="https://images.unsplash.com/photo-1562774053-701939374585?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y29sbGVnZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60">
-            <form [formGroup]="loginForm" (ngSubmit)="collectData()">
+            <form>
                 <div class="loginpage">
                     <img class="icon" src="https://sangamnercollege.edu.in/images/shikshan-logo.png">
  
                         <h1>Login Page</h1>
-                            <input type="text" name="name" formControlName="username" placeholder="Enter Name" required>
-                            <input type="password" name="password" formControlName="password" placeholder="Enter Password" required>
+                            <input type="text" name="name" placeholder="Enter Name" required>
+                            <input type="password" name="password" placeholder="Enter Password" required>
 
                             <div class="button">
-                                <button routerLink="/login" class="login" name="login">Login</button>
+                                <button routerLink="/logi" class="login" name="login">Login</button>
                                 <button class="reset" name="reset">Reset</button>
                             </div>
                         
                             <a class="create" href="#" routerLink="/newaccount">Create Account</a>
                             <a class="forgot" href="#" routerLink="/forgetpassword">Forget Password?</a>
+
                 </div>
                 <footer>
                 <div class="copyright">

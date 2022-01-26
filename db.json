@@ -1,10 +1,26 @@
 {
   "posts": [
-    { "id": 1, "name": "anjali kadam", "class": "tybca" },
-     { "id": 2, "name": "vaibhav nehe", "class": "tybca" },
-     { "id": 3, "name": "tejas kadam", "class": "fybca" },
-     { "id": 4, "name": "ankita ghumare", "class": "tybsc" }
+    {
+      "id": 1,
+      "name": "anjali kadam",
+      "class": "tybca"
+    },
+    {
+      "id": 2,
+      "name": "vaibhav nehe",
+      "class": "tybca"
+    },
+    {
+      "id": 4,
+      "name": "tejas kadam",
+      "class": "fybca"
+    },
+    {
+      "text": "anjali",
+      "email": "anjalikadam807@gmail.com",
+      "password": "anjali2911",
+      "number": 7875922717,
+      "id": 5
+    }
   ]
-  
 }
-

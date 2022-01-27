@@ -1,0 +1,118 @@
+{
+  "posts": [
+    {
+      "name": "Kadam Anjali Chandrakant",
+      "email": "anjalikadam807@gmail.com",
+      "password": "anjali29111",
+      "number": 7875922717,
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "email": "anjalikadam807@gmail.com",
+      "id": 3
+    },
+    {
+      "email": "anjalikadam807@gmail.com",
+      "password": "asdfgh",
+      "Address": "sangamner",
+      "auto": "Sangamner",
+      "id": 4
+    },
+    {
+      "email": "anjalikadam807@gmail.com",
+      "password": "sdfgh",
+      "Address": "sangamner",
+      "City": "Sangamner",
+      "id": 5
+    },
+    {
+      "email": "anjalikadam807@gmail.com",
+      "password": "dsfg",
+      "inputAddress": "sangamner",
+      "inputAddress2": "sangamner",
+      "City": "Sangamner",
+      "id": 6
+    },
+    {
+      "email": "anjalikadam807@gmail.com",
+      "password": "sdfgh",
+      "Temporary Address": "sangamner",
+      "Permanent Address": "pune",
+      "City": "Sangamner",
+      "id": 7
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "Temporary Address": "",
+      "Permanent Address": "",
+      "City": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "Temporary Address": "",
+      "Permanent Address": "",
+      "City": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "Temporary Address": "",
+      "Permanent Address": "",
+      "City": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "Temporary Address": "",
+      "Permanent Address": "",
+      "City": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "Temporary Address": "",
+      "Permanent Address": "",
+      "City": "",
+      "id": 12
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "Temporary Address": "",
+      "Permanent Address": "",
+      "City": "",
+      "State": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "Temporary Address": "",
+      "Permanent Address": "",
+      "City": "",
+      "State": "",
+      "id": 14
+    }
+  ]
+}
